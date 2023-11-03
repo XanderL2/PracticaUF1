@@ -25,7 +25,11 @@
 
         }
 
-        
+        //Muestreo de la suma (3er commit): 
+        Console.Clear(); 
+        Console.WriteLine(suma);
+
+
 
 
 
